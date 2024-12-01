@@ -1,5 +1,5 @@
 const configs = {
-    BOT_TOKEN: '8003593655:AAHDOj9l_GIDxK0YacvnMJGW_XO7zB2HKXk'
+    BOT_TOKEN: '000000000:xxxxxxxxx'
   };
   
   module.exports = configs;
